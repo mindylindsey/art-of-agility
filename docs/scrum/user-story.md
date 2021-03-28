@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sprint
+title: User Stories and Tasks
 parent: Understanding Scrum
 nav_order: 2
 ---
