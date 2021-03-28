@@ -1,0 +1,13 @@
+---
+title: Agile Basics
+layout: default
+nav_order: 2
+---
+
+This chapter provides a information on the following topics:
+*	A brief history of the Agile development methodology
+*	The Agile Manifesto, values, and principles
+*	Advantages of the Agile framework
+*	Common myths about Agile
+*	A comparison of Scrum and other Agile frameworks
+*	Scrum terminology
