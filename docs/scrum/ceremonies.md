@@ -2,7 +2,7 @@
 layout: default
 title: Scrum Ceremonies
 parent: Understanding Scrum
-nav_order: 6
+nav_order: 7
 ---
 
 # Scrum Ceremonies
