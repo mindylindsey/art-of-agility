@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sprint Planning
+title: Daily Standups
 parent: Scrum Ceremonies
 grand_parent: Understanding Scrum
 nav_order: 2
