@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History
+title: Agile Framework Comparison
 parent: Agile Basics
 has_toc: false
 nav_order: 6
