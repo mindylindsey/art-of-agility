@@ -4,6 +4,7 @@ title: Building Your Scrum Team
 parent: Getting Started
 has_toc: false
 nav_order: 1
+has_children: true
 ---
 
 # Building Your Scrum Team
