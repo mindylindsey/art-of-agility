@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting Started
 layout: default
 has_children: true
 has_toc: false
