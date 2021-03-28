@@ -2,6 +2,7 @@
 layout: default
 title: History
 parent: Agile Basics
+has_toc: false
 nav_order: 1
 ---
 
