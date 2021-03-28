@@ -6,7 +6,9 @@ has_toc: false
 nav_order: 2
 ---
 
-This chapter provides a information on the following topics:
+# Agile Basics
+
+This section provides information on the following topics:
 *	A brief history of the Agile development methodology
 *	The Agile Manifesto, values, and principles
 *	Advantages of the Agile framework
