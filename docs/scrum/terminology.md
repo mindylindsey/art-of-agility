@@ -1,5 +1,5 @@
 ---
-title: Scrum Basics and Terminology
+title: Understanding Scrum
 layout: default
 has_children: true
 has_toc: false
