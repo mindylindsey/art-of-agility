@@ -5,6 +5,8 @@ has_children: true
 nav_order: 2
 ---
 
+{: .no_toc }
+
 This chapter provides a information on the following topics:
 *	A brief history of the Agile development methodology
 *	The Agile Manifesto, values, and principles
