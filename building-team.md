@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Building Your Scrum Team
-parent: Getting Started with Agile Scrum Processes
+parent: Getting Started
 has_toc: false
 nav_order: 1
 ---
