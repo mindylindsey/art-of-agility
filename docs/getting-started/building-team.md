@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 1
 ---
 
+# Building Your Scrum Team
+
 A scrum team is a self-organizing, cross-functional group of people working together to achieve a goal. The team comes together to do work and solve problems. 
 They are not reliant on others to direct them, and they keep each other accountable. 
 
