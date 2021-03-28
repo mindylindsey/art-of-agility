@@ -1,7 +1,7 @@
 ---
 layout: default
-title: History
-parent: Manifesto, Values, and Guiding Principles
+title: Manifesto, Values, and Guiding Principles
+parent: History
 has_toc: false
 nav_order: 2
 ---
