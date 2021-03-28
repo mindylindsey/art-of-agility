@@ -48,12 +48,15 @@ Responding to change over following a plan.
 That is, while there is value in the items on the right, we value the items on the left more.
 ```
 
+## Agile Values
+
 The value of individuals, working software, customer collaboration, and change distinguish Agile from traditional software development methodologies.
+
+
+## 12 Principles of Agile
 
 The Agile Manifesto also outlines 12 principles for Agile development process. These principles are not an exhaustive list of rules to follow but rather 
 some guidelines that help to define the Agile mindset.
-
-## 12 Principles of Agile
 
 ```
 Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
