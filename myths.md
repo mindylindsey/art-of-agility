@@ -18,7 +18,7 @@ cycles are relatively short, but software still goes through rigorous developmen
 ## No Need for Requirements Gathering
 The first Agile principle states that:
 
-     _Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
+_Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
 
 Based on this principle, it is clear that requirements gathering is an essential part of the Agile process. How can you satisfy customers without 
 understanding their needs?
@@ -32,7 +32,7 @@ What is not needed are long documents that record customer requirements that nee
 As a technical writing professional, I find myself face-to-face with this myth on a regular basis. Let me see if I can explain what the 
 Agile Alliance founders meant when they included this in the Agile Manifesto: 
 
-     _Working software over comprehensive documentation_
+_Working software over comprehensive documentation_
      
 They meant that the focus should be on developing a quality product rather than spending months creating comprehensive requirements, architecture, 
 and software development documents before starting the work.
