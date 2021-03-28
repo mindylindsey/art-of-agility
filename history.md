@@ -20,5 +20,5 @@ The Agile Alliance is a nonprofit organization that was formed in late 2001 to s
 The adoption of Agile development has continued to grow since the meeting of the Agile Alliance founders. 
 
 The 13th Annual State of Agile Report, a survey of Agile trends conducted by VersionOne and published in mid-2019, shows that 97% of respondents 
-practice Agile methods in their organizations, , while 61% reported that they have been using Agile practices for 3 years or more.
+practice Agile methods in their organizations, while 61% reported that they have been using Agile practices for 3 years or more.
 Agile Manifesto, Values, and Guiding Principles 
