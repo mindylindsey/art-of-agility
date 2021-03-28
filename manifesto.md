@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manifesto, Values, and Guiding Principles
-parent: History
+parent: Agile Basics
 has_toc: false
 nav_order: 2
 ---
