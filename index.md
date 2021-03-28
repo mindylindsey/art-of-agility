@@ -3,7 +3,9 @@ title: Introduction
 nav_order: 1
 ---
 
-# Why Agile?
+# A Guide to Optimizing Agile Scrum Teams
+
+## Why Agile?
 
 In today’s market, companies depend on gaining any competitive edge they can to be successful. Delivering more features faster is key to this success. Companies must optimize their time-to-market if they want to increase their bottom line.
 
@@ -13,7 +15,7 @@ The Agile methodologies emerged in 2001 as the optimal way to succeed in the sof
 
 Regardless of its popularity, companies have taken elements but not necessarily implemented it fully.
 
-# What Makes an Efficient Agile Scrum Team?
+## What Makes an Efficient Agile Scrum Team?
 
 To some extent, your willingness to make changes to your process determines you level of success in optimizing your scrum team. Agile development requires a change in mindset from traditional waterfall methods. 
 
@@ -21,8 +23,10 @@ Agile is an incremental approach that focuses on constant evaluation of project 
 
 To deliver quickly, teams must focus on the minimum amount of functionality that they must provide to satisfy customers. Focusing on a “minimally viable product” helps teams to limit the potential for scope creep that causes delays in product distribution. In addition, by getting products in the hands of their customers quickly, teams can get feedback that informs future product development. 
 
-# About this Site
+## About this Site
 
 This site is designed to help anyone from individuals just starting with Agile to established scrum teams that are struggling to find the efficiencies that are supposed to be inherent with self-organizing teams working in short development cycles. 
+
+
 
 
