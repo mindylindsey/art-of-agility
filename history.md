@@ -1,7 +1,8 @@
 ---
 layout: default
-title: History of Agile Development
-nav_order: 3
+title: History
+parent: Agile Basics
+nav_order: 1
 ---
 
 # History of Agile Development
