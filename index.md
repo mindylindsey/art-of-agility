@@ -3,7 +3,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Why Agile
+# Why Agile?
 
 In today’s market, companies depend on gaining any competitive edge they can to be successful. Delivering more features faster is key to this success. Companies must optimize their time-to-market if they want to increase their bottom line.
 
