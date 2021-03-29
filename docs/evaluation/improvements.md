@@ -22,3 +22,8 @@ standards and guidelines or implementing more rigorous code reviewing practices.
 During this self-evaluation process, teams should not lose sight of what they did right. Were the requirements defined in the Requirements 
 Gathering and Analysis well defined and communicated to the architecture and development teams during the Design and Implementations and Coding phases? 
 Did automated deployment strategies allow the team to seamlessly deploy new code and eliminate the chances of human error.
+
+When the team begins the next phase of analysis and requirements gathering for the next product version, they take the lessons learned from the previous cycle and make the necessary adjustments. Continual evaluation of the software development lifecycle phases ensures that the focus remains on the quality of the products being delivered.
+
+This is an iterative process.   
+
