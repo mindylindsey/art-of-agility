@@ -12,3 +12,5 @@ Like the software development lifecycle and the Agile methodology themselves, th
 adjustments after evaluating what is working and what is not working is as important for the team as it is for the software that they are developing. 
 
 ![Software Development Lifecycle](/img/sdlc.png)
+
+![alt text](../../img/sdlc.png)
