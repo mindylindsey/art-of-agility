@@ -8,6 +8,8 @@ nav_order: 3
 
 # Sprint Ceremony Evaluation
 
+When the team begins the next phase of analysis and requirements gathering for the next product version, they take the lessons learned from the previous cycle and make the necessary adjustments. Continual evaluation of the software development lifecycle phases ensures that the focus remains on the quality of the products being delivered. This is an iterative process.
+
 Improvements can be made at any stage of the Agile sprint from sprint planning to retrospective. With short development cycles of 2-3 weeks, 
 Agile scrum teams have more frequent opportunities to evaluate how the development process is working than they would in a waterfall development 
 environment. The team has the opportunity to look at their processes at the end of each sprint during the retrospective. Think about how things 
