@@ -20,7 +20,7 @@ on how fix them.
 |-----------------------------------------------|---------------------------------------------------------|---------------------------------------------------|
 | **User stories not being completed**              | Unclear acceptance criteria. Stories not sized properly | Sprint Planning  or Backlog Refinement            |
 |                                               | Team schedules not considered                           | Spring Planning                                   |
-|                                               | Team members unaware of blocking issues                 | Daily Scrum Sprint Planning Sprint Review         |
+|                                               | Team members unaware of blocking issues                 | Daily Scrum <br/>SprintPlanning<br/>  Sprint Review         |
 |                                               | Issues from previous sprints not addressed.             | Retrospective                                     |
-| **Team delivers incorrect/unacceptable features** | Stories not appropriately prioritized                   | Spring Planning  Backlog Refinement Sprint Review |
-|                                               | Features designed inappropriately                       | Sprint Planning Daily Scrum Sprint Review         |
+| **Team delivers incorrect/unacceptable features** | Stories not appropriately prioritized                   | Spring Planning<br/>  Backlog Refinement<br/> Sprint Review |
+|                                               | Features designed inappropriately                       | Sprint Planning<br/> Daily Scrum<br/> Sprint Review         |
