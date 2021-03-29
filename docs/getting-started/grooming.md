@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Backlog Refinement/Grooming and Pointing Stories
+title: Backlog Refinement
 parent: Getting Started
 nav_order: 3
 has_children: true
