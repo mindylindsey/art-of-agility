@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sizing Documenation Projects
+title: Project Sizing Example
 parent: Backlog Refinement
 grand_parent: Getting Started
 nav_order: 2
