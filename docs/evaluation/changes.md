@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Areas for Improvements
+title: Team Process Changes
 parent: Evaluation and Improvement
 nav_order: 2
 has_toc: false
