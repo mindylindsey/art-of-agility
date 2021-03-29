@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Areas for Process Improvements
+title: Process Improvements
 parent: Evaluation and Improvement
 nav_order: 1
 has_toc: false
