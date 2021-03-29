@@ -15,3 +15,12 @@ could _be_ better and make changes to be better.
 
 Some of the issues that teams might be having are mentioned in the following table as well as references to the section(s) with more information 
 on how fix them.
+
+| Problem                                       | Cause                                                   | Associated Ceremony                               |
+|-----------------------------------------------|---------------------------------------------------------|---------------------------------------------------|
+| **User stories not being completed**              | Unclear acceptance criteria. Stories not sized properly | Sprint Planning  or Backlog Refinement            |
+|                                               | Team schedules not considered                           | Spring Planning                                   |
+|                                               | Team members unaware of blocking issues                 | Daily Scrum Sprint Planning Sprint Review         |
+|                                               | Issues from previous sprints not addressed.             | Retrospective                                     |
+| **Team delivers incorrect/unacceptable features** | Stories not appropriately prioritized                   | Spring Planning  Backlog Refinement Sprint Review |
+|                                               | Features designed inappropriately                       | Sprint Planning Daily Scrum Sprint Review         |
