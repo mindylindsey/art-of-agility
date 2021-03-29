@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Determining the Length of Sprints
+title: Sprint Length
 parent: Building Your Scrum Team
 grand_parent: Getting Started
 nav_order: 3
