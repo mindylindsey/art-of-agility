@@ -3,6 +3,7 @@ layout: default
 title: Creating a Product Backlog
 parent: Getting Started
 nav_order: 2
+has_children: true
 ---
 
 # Creating a Product Backlog
