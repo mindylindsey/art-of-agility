@@ -12,3 +12,5 @@ If you have larger project that will be released after multiple sprints, you may
 the same as a sprint burndown chart, except that it indicates the number of story points remaining to be completed at the end of each sprint.
 
 If your project contains five sprints, you release burndown might look like the following:
+
+![Release Burndown](../../img/release.png)
