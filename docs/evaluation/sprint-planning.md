@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sprint Planning
+title: Sprint Planning Improvements
 parent: Sprint Ceremony Evaluation
 grand_parent: Evaluation and Improvement
 nav_order: 1
