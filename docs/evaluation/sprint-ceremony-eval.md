@@ -3,6 +3,8 @@ layout: default
 title: Sprint Ceremony Evaluation
 parent: Evaluation and Improvement
 nav_order: 3
+has_children: true
+has_toc: false
 ---
 
 # Sprint Ceremony Evaluation
