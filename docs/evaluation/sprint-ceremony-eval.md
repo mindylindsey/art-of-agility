@@ -2,7 +2,6 @@
 layout: default
 title: Sprint Ceremony Evaluation
 parent: Evaluation and Improvement
-grand_parent: Evaluation and Improvement
 nav_order: 3
 ---
 
