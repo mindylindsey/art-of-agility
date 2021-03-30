@@ -15,3 +15,5 @@ A reference line at the top of the burn up chart shows the scope of work for the
 from the scope of the release. 
 
 The following is an example of a burn up chart.
+
+![Burndown](../../img/burnup.png)
