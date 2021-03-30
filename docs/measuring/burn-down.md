@@ -22,4 +22,4 @@ estimating the stories appropriately. If the team is overcommitting, the actual 
 
 A burndown chart can also be represented as a bar graph.
 
-
+![Burndown](../../img/burndown-bar.png)
