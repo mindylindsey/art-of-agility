@@ -15,6 +15,8 @@ The following chart is an example of a burndown. The number of story points to c
 on the x-axis. When the actual work line remains above the planned work line, the chart indicates that the team is behind schedule. When the actual work 
 line dips below the planned work line, the team is ahead of schedule. 
 
+![Burndown](../../img/burndown.png)
+
 If the burndown chart shows that all of the work is getting completed before the end of the sprint, the team is not planning enough work or is not 
 estimating the stories appropriately. If the team is overcommitting, the actual work line will not be at zero by the end of the sprint.
 
