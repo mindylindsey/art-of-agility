@@ -9,19 +9,17 @@ nav_order: 3
 # Why Use the Agile Framework?
 
 In today’s economy, organizations seek ways to stay ahead of the competition. Time-to-market and product quality are critical. Companies need 
-ways to get their products and service to their customers more quickly without compromising on the quality. The Agile framework offers a number 
+ways to get their products and services to their customers more quickly without compromising on the quality. The Agile framework offers a number 
 of advantages for both the organizations that build products and services as well as for the consumers who use them. Some of these advantages are:
 *	Faster delivery
 *	Improved quality
 *	Customer satisfaction
 
 ## Faster Delivery
-By using shorter development cycles, teams are able to delivery products and services more quickly to their customers. Teams should have 
-potentially shippable products at the end of each cycle, every 1-4 weeks. Products and services are considered “potentially shippable”, because there 
-is no requirement that teams deliver their products at the end of each development period. Product owners and stakeholders collaborate to determine 
-whether enough of the functionality exists to deliver the product at the end of each development cycle.  However, even if teams do not release new 
-versions of their product or service at the end of each cycle, they have more opportunities to deliver functionality (because of the short development cycles) 
-than they would if they used a more traditional development model, such as Waterfall. 
+By using shorter development cycles, Agile teams are able to delivery products and services more quickly to their customers. Teams should have 
+potentially shippable products at the end of each cycle, every 1-4 weeks. Products and services are considered “potentially shippable”, but there 
+is no requirement that teams actually deliver their products at the end of each development period. Product owners and stakeholders collaborate to determine 
+whether enough of the functionality exists to deliver the product at the end of a given development cycle. With Agile development, the shorter development cycles provide teams more opportunities to deliver functionality than they would have if they used a more traditional development model, such as Waterfall. 
 
 
 ## Improved Quality
