@@ -8,7 +8,7 @@ nav_order: 2
 
 # Agile Manifesto, Values, and Guiding Principles 
 
-The Agile Manifesto is the document that was written by the group of software engineers that formed the Agile Alliance. The authors include:
+The [Agile Manifesto](https://agilemanifesto.org) was written by a group of software engineers that formed the Agile Alliance. The document defines the 4 values and 12 principles of Agile development. The authors include:
 
 *	Kent Back, co-creator of eXtreme Programming (XP).
 *	Mike Beedle, co-author of Agile Software Development with Scrum.
@@ -27,8 +27,6 @@ The Agile Manifesto is the document that was written by the group of software en
 *	Ken Schwaber, co-creator of Scrum with Jeff Sutherland.
 *	Jeff Sutherland, the inventor, and co-creator of Scrum.
 *	Dave Thomas, programmer, and co-author of The Pragmatic Programmer
-
-The Manifesto defines the 4 values and 12 principles of Agile development.
 
 ## Agile Manifesto
 
