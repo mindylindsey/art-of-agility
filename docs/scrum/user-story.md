@@ -6,12 +6,11 @@ nav_order: 2
 ---
 
 # User Stories and Tasks
-A user story is a description of the feature that needs to be developed, including the type of user for the feature and how/why they will use the feature. 
-The format of a user story is often in the format:
+A user story is a description of the feature that needs to be developed, including the type of user for which the feature is to be designed and how/why the feature will be used. The format of a user story is often in the format:
 
 _As a type of user, I want this functionality, so that I can do this._
 
-Larger user stories (known as epics) are too large to be delivered within a sprint. During the lifecycle of the project, these epic user stories are 
+Larger user stories (known as epics) are too large to be delivered within a sprint. During the lifecycle of the project, these epics are 
 broken down into story units that can be completed during a sprint. The process of breaking down user stories and making sure that the user stories are 
 prioritized correctly is referred to as backlog grooming.
 
