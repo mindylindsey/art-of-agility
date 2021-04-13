@@ -23,7 +23,7 @@ often do not contain all of the cross-functional roles needed to produce the pro
 **What are story points?**
 
 Story points are a measure of the effort required to complete of a user story. Story points indicate the relative size of a story. The story points 
-alone do not indicate the number of time a team needs to complete a user story. 
+alone do not indicate the amount of time a team needs to complete a user story. 
 
 **What is a sprint?**
 
