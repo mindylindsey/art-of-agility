@@ -10,4 +10,4 @@ Velocity is an average amount of work (measured in story points) that the scrum 
 counts towards the team’s velocity. 
 
 There is no ideal velocity that all teams should strive to achieve, as story points are just a relative measure of size. Established teams should ensure 
-that they maintain their velocity (whatever that is) and not that they achieve a particular velocity.
+that they maintain or continue to improve their velocity (whatever that is) and rather than trying to achieve a particular velocity.
