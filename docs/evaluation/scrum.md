@@ -31,6 +31,6 @@ improvements. There are many issues that can arise during the daily scrums that 
 
      Whether you insist that your team actually standup during the daily standup or not, the only person that should be working on an electronic 
      device is the person displaying the digital scrum board. If you use sticky notes on a whiteboard rather than a digital scrum board, then there 
-     is not reason for anyone to be on a computer or phone. 
+     is no reason for anyone to be on a computer or phone. 
      
 Failure to use the daily scrum meetings to report on status and issues can impact the team’s ability to deliver features on schedule.  
