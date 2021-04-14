@@ -44,7 +44,7 @@ allocate resources at 80% to account for occasional unplanned absences or for wo
 *	_Are tasks being assigned to a particular engineer, because they are the expert in that area, even though that person is already fully committed to the sprint?_
 
     Although it is perfectly natural to have an expert on your team for any given technology or feature, you have to try to develop the expertise in 
-your team so that you do not have a single point of failure. This may take time, and your velocity might take a hit, if other members of your team take 
+your team so that you do not have a single point of failure. This may take time. Your velocity might take a hit if other members of your team take 
 longer to finish a task than your expert, but in the long run, your team will run more efficiently. 
 
 *	_Are you taking into consideration that some of your team members are not fully dedicated to the project and must spend time on other projects outside of this scrum team?_
