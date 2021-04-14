@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Monitoring Issues vs. Making Changes
-parent: Sprint Ceremony Evaluation
+parent: Root Cause Analysis
 nav_order: 3
 ---
+
+# Monitoring Issues vs. Making Changes
 
 Although short development cycles give the team more frequent opportunities to make changes to their processes, you want to be careful to make 
 reasoned choices and not just make a change for change’s sake. Issues with team dynamics should be addressed as they occur but issues such as a 
