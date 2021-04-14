@@ -3,7 +3,7 @@ layout: default
 title: Backlog Refinement
 parent: Root Cause Analysis
 grand_parent: Evaluation and Improvement
-nav_order: 3
+nav_order: 2
 ---
 
 # Backlog Refinement
