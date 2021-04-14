@@ -8,8 +8,7 @@ has_toc: false
 
 # Why Focus on Improvements?
 
-One of the benefits of the Agile methodology is its focus on delivering working software as quickly and efficiently as possible. Continual process 
-improvements enable teams to maintain a high level of productivity while producing quality software.  In fact, the Agile principles themselves dictate that:
+Continual process improvements enable teams to maintain a high level of productivity while producing quality software.  In fact, the Agile principles themselves dictate that:
  
  “At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.”
 
