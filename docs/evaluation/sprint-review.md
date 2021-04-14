@@ -3,7 +3,7 @@ layout: default
 title: Sprint Review
 parent: Root Cause Analysis
 grand_parent: Evaluation and Improvement
-nav_order: 3
+nav_order: 4
 ---
 
 # Sprint Review
