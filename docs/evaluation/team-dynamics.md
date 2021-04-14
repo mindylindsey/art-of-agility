@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Impact of Team Dynamics
-parent: Areas for Improvements
+parent: Root Cause Analysis
 grand_parent: Evaluation and Improvement
-nav_order: 1
+nav_order: 5
 ---
 
 # Impact of Team Dynamics
