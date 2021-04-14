@@ -6,7 +6,7 @@ nav_order: 1
 has_toc: false
 ---
 
-# Focus on Improvements
+# Why Focus on Improvements?
 
 One of the benefits of the Agile methodology is its focus on delivering working software as quickly and efficiently as possible. Continual process 
 improvements enable teams to maintain a high level of productivity while producing quality software.  In fact, the Agile principles themselves dictate that:
@@ -27,9 +27,13 @@ For instance, if software bugs were found, do improvements need to be made to th
 Or, are there issues with the Implementation and Coding phase that need to be addresses, such as ensuring that developers follow team coding 
 standards and guidelines or implementing more rigorous code reviewing practices.
 
-During this self-evaluation process, teams should not lose sight of what they did right. Were the requirements defined in the Requirements 
-Gathering and Analysis well defined and communicated to the architecture and development teams during the Design and Implementations and Coding phases? 
-Did automated deployment strategies allow the team to seamlessly deploy new code and eliminate the chances of human error.
+During this self-evaluation process, teams should not lose sight of what they did right. For instance:
+
+* Were the requirements defined in the Requirements Gathering and Analysis (during backlog grooming) well defined and communicated to the architecture and development teams during the Design and Implementations and Coding phases? 
+* Did automated deployment strategies allow the team to seamlessly deploy new code and eliminate the chances of human error?
+
+Team should take the lessons learned from each development cycle and make the necessary adjustments. Continual evaluation of the software development lifecycle phases ensures that the focus remains on the quality of the products being delivered. This is an iterative process.
+
 
   
 
