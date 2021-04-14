@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Monitoring Issues vs. Making Changes
-parent: Root Cause Analysis
-nav_order: 3
+parent: Evaluation and Improvement
+nav_order: 5
 ---
 
 # Monitoring Issues vs. Making Changes
