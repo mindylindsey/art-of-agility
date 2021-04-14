@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint Planning
-parent: Sprint Ceremony Evaluation
+parent: Root Cause Analysis
 grand_parent: Evaluation and Improvement
 nav_order: 1
 ---
