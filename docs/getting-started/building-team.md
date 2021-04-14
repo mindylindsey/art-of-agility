@@ -14,7 +14,7 @@ They are not reliant on others to direct them, and they keep each other accounta
 
 The size of scrum team varies from group to group. Somewhere between 3 and 9 people is generally considered ideal. (This number does not include the product 
 owner and scrum master that we will be discussing in the next section.) You need enough people on the team with the expertise that is required to complete 
-tasks on time each Sprint. However, you do not want so many people that you lose your ability to change direction quickly. Large teams often come with a 
+tasks on time each sprint. However, you do not want so many people that you lose your ability to change direction quickly. Large teams often come with a 
 large amount of overhead and increase the risk of scheduling issues.
 
 Scrum teams are (or should be) high functioning. They align with the “performing” stage of Bruce Tuckman’s forming-storming-norming-performing model of 
