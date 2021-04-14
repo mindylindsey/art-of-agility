@@ -11,7 +11,7 @@ nav_order: 4
 Agile methodology focuses on teams that create quality software products while adapting quickly to change. Part of being able to adapt quickly to 
 changing requirements is building a team that understands the processes within the Agile scrum framework. 
 
-You will want to embrace the spirit of Agile as you are reading this chapter and getting started on Agile scrum at your company. Focus on understanding 
+You will want to embrace the spirit of Agile as you are reading this section and getting started on Agile scrum at your company. Focus on understanding 
 the processes and philosophies around them. Do not spend too much time trying to plan how each process will be handled. You will have to determine what 
 things do and don’t work for your team. Sometimes the only way to do that is by trying new approaches. 
 
