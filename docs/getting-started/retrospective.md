@@ -11,15 +11,13 @@ has_toc: false
 During the sprint retrospective, the teams reflect on their processes and evaluate the way that they work. This introspection occurs at the end of 
 the sprint so that the team can implement any improvements in the next sprint.
 
-## Retropective Details
-
-### Who Attends?
+## Who Attends?
 All members of the development team, the scrum master, and the product owner attend the retrospective.
 
-### When Does It Occur
+## When Does It Occur
 The retrospective occurs on the last day of the sprint just after the sprint review.
 
-### What Happens During the Retrospective?
+## What Happens During the Retrospective?
 
 The team evaluates the sprint and looks for what went right (that should be continued) and for what went wrong (that needs to be corrected). 
 The team strives to find ways to become more efficient and to work better together.
