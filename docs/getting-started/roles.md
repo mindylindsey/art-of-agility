@@ -32,5 +32,6 @@ have the consistency of one person in the scrum master role or if you prefer to 
 
 The development team is composed of individuals who work on user stories and tasks during the sprint. They participate in each of the scrum ceremonies, 
 including the daily standup where they provide information on what they have completed, what they are currently working on, and whether they have any 
-blockers as well as the sprint review where the demonstrate what was built for the current sprint and discuss how it met the goals defined for the sprint. 
+blockers. The development team also conducts a sprint review where they demonstrate what was built for the current sprint and discuss how it met the goals defined for the sprint. 
+
 Communication with fellow team members is critical to the performance of the team. 
