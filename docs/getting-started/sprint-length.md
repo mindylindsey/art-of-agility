@@ -21,8 +21,8 @@ Let’s say that the project that you wanted to complete is remodeling your kitc
 job (putting in new cabinets, appliances, flooring, tile, wallpaper, etc.) 
 
 Do you think that you would be able to quickly and accurately tell them how long it will take?  Before you are tempted to say yes, have you ever heard 
-someone talk about their kitchen remodel and how long it took? Did they tell you that if you ever think about getting your kitchen remodeled that you 
-could take the contractor’s estimate of time and budget and double it? You could argue that general contractors are just universally bad at estimating, 
+someone talk about their kitchen remodel and how long it took? Did they tell you that you 
+should take the contractor’s estimate of time and budget and double it? You could argue that general contractors are just universally bad at estimating, 
 but somehow, I don’t think that is the issue. I think it is more accurate to say that estimating such a big project is not as easy as estimating how long 
 it would take to complete any smaller piece of that project.
 
