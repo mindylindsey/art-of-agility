@@ -30,6 +30,7 @@ Examples of team goals are:
 *	Cancel meetings, if key stakeholders are unable to attend.
 
 The team as a whole should come together to establish the team rules. They should not be dictated by the product owner, scrum master, or team manager. 
+
 How does the team define their team rules?
 
 During a working session, have each team member write down two or three rules that they would like to see the team follow. They can write these rules 
