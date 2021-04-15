@@ -8,8 +8,7 @@ nav_order: 1
 
 # Story Estimation (Assigning Story Points)
 
-To estimate the amount of work required to complete a task, the team assign story points. Story points are an abstract value of the amount of effort 
-required. They measure the relative difficulty of the work item when compared to other items to be developed. The difficulty work items include the 
+To estimate the amount of work required to complete a given story (or work item), the team assign story points. Story points are an abstract value of the amount of effort required. They measure the relative difficulty of the work item when compared to other items to be developed. The difficulty includes the 
 complexity of the work as well as the level of risk. 
 
 Story points do not directly relate to the number of hours, days, or weeks that are needed to complete the task. They are a measure of relative size. 
