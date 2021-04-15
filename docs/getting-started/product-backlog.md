@@ -57,4 +57,4 @@ Or, it could look something like this:
 
 As you are getting started in creating your product backlog (or simply adding items to an existing backlog), you do not have to have items that 
 are broken down into small enough chunks to be completed within a sprint. You will break down the large items and prioritize the new user stories 
-during backlog refining/grooming, as described later in this chapter.
+during backlog refining/grooming, as described later in this section.
