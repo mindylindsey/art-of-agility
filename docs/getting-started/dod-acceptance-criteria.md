@@ -13,7 +13,7 @@ User stories must meet the definition of done (DoD) and the acceptance criteria 
 The DoD is the universal completion criteria for all user stories handled by the team. The scrum team defines the DoD and should review it on a 
 regular basis to make sure that it includes all of the items that are needed to ensure the quality of their product is being maintained. 
 
-When creating your definition of done, you want to think about the tasks that you want to perform before delivering any new functionality to your 
+When creating your definition of done, think about the tasks that you want to perform before delivering any new functionality to your 
 customers, including unit and functional tests. Individual user stories might also have additional criteria that must be met before they are considered done.
 
 Examples of criteria for a definition of done include: 
