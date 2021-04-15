@@ -25,7 +25,7 @@ going into the backlog refinement session, so that priority items that might go 
 to be added to the top of the backlog due to changing priorities, the product owner may choose to add them to the top of the backlog during the refinement 
 session.
 
-To determine how much work a single item (or user story) will take to complete, the team assigns story points, which is a relative measure of the amount 
+To determine how much work a single item (or user story) will take to complete, the team assigns story points, which are a relative measure of the amount 
 of work required to finish that item, as is described in more detail later in this section.
 
 Once your team becomes accustomed to breaking down tasks and understanding how long it takes your team to complete them, you should be able to reliably 
