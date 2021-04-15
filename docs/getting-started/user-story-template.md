@@ -25,14 +25,14 @@ In this section, include the tasks that need to be completed for this user story
 
 Acceptance Criteria
 
-In this section, include the following acceptance criteria for this user story. Add additional acceptance criteria, as needed:
+In this section, include the acceptance criteria for this user story. Add additional acceptance criteria, as needed:
 
 1.	
 2.	
 
 Definition of Done
 
-In this section, include the following Definition of Done for this story. Add additional acceptance criteria, as needed:
+In this section, include the Definition of Done.
 
 1.	
 2.	
