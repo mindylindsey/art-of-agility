@@ -3,8 +3,6 @@ layout: default
 title: Daily Standups
 parent: Getting Started
 nav_order: 5
-has_children: true
-has_toc: false
 ---
 
 # Daily Standups
