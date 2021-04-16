@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Daily Scrum
-parent: Root Cause Analysis
+parent: Evaluating Scrum Processes
 grand_parent: Continuous Improvement
 nav_order: 3
 ---
