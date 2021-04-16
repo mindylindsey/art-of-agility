@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav_order: 5
+nav_order: 1
 ---
 
 # Art of Agility: A Guide to Optimizing Agile Scrum Teams
