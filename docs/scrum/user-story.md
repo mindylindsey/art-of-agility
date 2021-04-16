@@ -1,7 +1,7 @@
 ---
 layout: default
 title: User Stories and Tasks
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 2
 ---
 
