@@ -2,7 +2,7 @@
 layout: default
 title: Sprint Retrospective
 parent: Scrum Ceremonies
-grand_parent: Understanding Scrum
+grand_parent: Understanding Scrum Terminology
 nav_order: 5
 ---
 
