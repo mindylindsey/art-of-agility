@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Impact of Team Dynamics
-parent: Root Cause Analysis
-grand_parent: Continuous Improvement
+parent: Continuous Improvement
 nav_order: 5
 ---
 
