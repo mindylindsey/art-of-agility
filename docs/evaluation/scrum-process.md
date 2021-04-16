@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Evaluating Agile Scrum Processes
-parent: Evaluation and Improvement
+title: Evaluating Scrum Processes
+parent: Continuous Improvement
 nav_order: 3
 has_toc: false
 ---
