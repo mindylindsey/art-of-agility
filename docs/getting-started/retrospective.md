@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Reflecting on Results
+title: Reflecting on Results (Sprint Retrospective)
 parent: Getting Started
 nav_order: 7
 has_toc: false
 ---
 
-# Reflecting on Results
+# Reflecting on Results (Sprint Retrospective)
 
 During the sprint retrospective, the teams reflect on their processes and evaluate the way that they work. This introspection occurs at the end of 
 the sprint so that the team can implement any improvements in the next sprint.
