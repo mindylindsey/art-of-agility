@@ -3,7 +3,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# A Guide to Optimizing Agile Scrum Teams
+# Art of Agility: A Guide to Optimizing Agile Scrum Teams
 
 ## Why Agile?
 
