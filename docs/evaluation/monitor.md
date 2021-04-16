@@ -2,7 +2,7 @@
 layout: default
 title: Monitoring Issues vs. Making Changes
 parent: Continuous Improvement
-nav_order: 5
+nav_order: 6
 ---
 
 # Monitoring Issues vs. Making Changes
