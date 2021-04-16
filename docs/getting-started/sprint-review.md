@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Reviewing the Work
+title: Reviewing the Sprint
 parent: Getting Started
 nav_order: 6
 has_toc: false
 ---
 
-# Reviewing the Work
+# Reviewing the Sprint
 
 The sprint review gives the team the opportunity to inspect the work produced in the sprint and discuss the direction of the product, based on its 
 current state. This ceremony is often referred to as a sprint demo, as it provides team members the opportunity to demonstrate their work. 
