@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Completion Metrics
-parent: Measuring Agile Scrum Team Performance
+parent: Measuring Scrum Team Performance
 nav_order: 1
 has_children: true
 has_toc: false
