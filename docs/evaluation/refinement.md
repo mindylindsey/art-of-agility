@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backlog Refinement
-parent: Root Cause Analysis
+parent: Evaluating Scrum Processes
 grand_parent: Continuous Improvement
 nav_order: 2
 ---
