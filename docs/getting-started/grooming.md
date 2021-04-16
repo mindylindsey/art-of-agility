@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Backlog Refinement
+title: Refining Your Backlog
 parent: Getting Started
 nav_order: 3
 has_children: true
 has_toc: false
 ---
 
-# Backlog Refinement/Grooming and Pointing Stories
+# Backlog Refinement/Grooming
 
 Scrum teams should spend approximately an hour each week on backlog refinement (previously known as backlog grooming.) During refinement sessions, the 
 team ensures that the appropriate items are included in the product backlog and that they are prioritized appropriately. User stories can be added, deleted, 
