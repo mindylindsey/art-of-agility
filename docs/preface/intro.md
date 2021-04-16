@@ -15,7 +15,7 @@ The Agile methodologies emerged in 2001 as the optimal way to succeed in the sof
 
 Regardless of its popularity, companies have taken elements but not necessarily implemented it fully.
 
-## What Makes an Efficient Agile Scrum Team?
+## What Makes an Efficient Scrum Team?
 
 To some extent, your willingness to make changes to your process determines you level of success in optimizing your scrum team. Agile development requires a change in mindset from traditional waterfall methods. 
 
