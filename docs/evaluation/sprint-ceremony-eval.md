@@ -10,7 +10,7 @@ has_toc: false
 # Root Cause Analysis
 
 Improvements can be made at any stage of the Agile sprint from sprint planning to retrospective. With short development cycles of 2-3 weeks, 
-Agile scrum teams have more frequent opportunities to evaluate how the development process is working than they would in a waterfall development 
+Scrum teams have more frequent opportunities to evaluate how the development process is working than they would in a waterfall development 
 environment. The team has the opportunity to look at their processes throughout the sprint cycle and at the end of each sprint during the retrospective. 
 They can think about how things _could be_ better and make changes _to be_ better. 
 
