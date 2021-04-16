@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Product Backlog and Sprint Backlog
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 4
 ---
 
