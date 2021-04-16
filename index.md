@@ -7,7 +7,7 @@ nav_order: 1
 
 ## About this Book
 
-This book provides information on how teams can transition to an Agile development model or how those teams already working within an Agile framework can make improvements to their processes. The focus on the first book is on Agile Scrum teams, but more books will be added to cover other popular Agile frameworks.
+This book provides information on how teams can transition to an Agile development model or how those teams already working within an Agile framework can make improvements to their processes. The focus on the first book is on Agile Scrum teams, but more books will be added to this site to cover other popular Agile frameworks.
 
 ## About the Author
 
