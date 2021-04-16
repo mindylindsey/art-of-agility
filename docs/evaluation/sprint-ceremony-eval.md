@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Root Cause Analysis
-parent: Evaluation and Improvement
+parent: Continuous Improvement
 nav_order: 4
 has_children: true
 has_toc: false
