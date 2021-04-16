@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Sprint Planning
+title: Planning the Sprint
 parent: Getting Started
 nav_order: 4
 has_children: true
 has_toc: false
 ---
 
-# Sprint Planning
+# Planning the Sprint
 
 Sprint planning is the process of determining which product backlog items can be completed during the sprint. The team discusses each of the potential 
 work items for the upcoming sprint. Unless a new priority item has come up just before spring planning that as not been groomed, the team should be 
@@ -17,7 +17,7 @@ discussion.
 Make sure to consider any of the lessons learned from the previous sprint retrospective as you begin planning the new sprint. Whether those lessons 
 learned are related to mistakes made in sizing tasks or to how the team can work more efficiently, they should be top of mind as your plan your upcoming sprint.
 
-## Who Attends?
+## Who Attends Sprint Planning?
 
 The entire scrum team attends sprint planning, including the product owner, scrum master, and development team. The product owner provides information 
 on the highest priority backlog items that should be considered as potential work items for the sprint and proposes the sprint goal.
