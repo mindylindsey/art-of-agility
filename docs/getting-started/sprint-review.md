@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reviewing the Completed Work During Sprint Reviews
+title: Reviewing the Work
 parent: Getting Started
 nav_order: 6
 has_toc: false
