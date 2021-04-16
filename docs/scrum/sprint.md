@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 has_toc: false
 nav_order: 1
 ---
