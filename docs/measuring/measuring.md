@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Measuring Agile Scrum Team Performance
+title: Measuring Scrum Team Performance
 nav_order: 35
 has_children: true
 has_toc: false
 ---
 
-# Measuring Agile Scrum Team Performance
+# Measuring Scrum Team Performance
 
 Measuring a team’s performance is important, regardless of the team’s development methodology or the type of product that the team is developing. By demonstrating the value that your team provides to the organization, you can help justify the operational and capital expenses incurred to support your projects. Performance can be measured with a variety of metrics from the speed of product delivery to the quality of the product. 
 
