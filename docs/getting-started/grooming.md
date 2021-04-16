@@ -7,16 +7,16 @@ has_children: true
 has_toc: false
 ---
 
-# Backlog Refinement/Grooming
+# Refining Your Backlog
 
 Scrum teams should spend approximately an hour each week on backlog refinement (previously known as backlog grooming.) During refinement sessions, the 
 team ensures that the appropriate items are included in the product backlog and that they are prioritized appropriately. User stories can be added, deleted, 
 or broken down into multiple, smaller stories, as necessary. 
 
-## Who Attends
+## Who Attends Backlog Refinement?
 The product owner, scrum master, and scrum team attend the backlog refinement meetings.
 
-## What Happens During Backlog Refinement
+## What Happens During Backlog Refinement?
 The team discusses the items in the product backlog to get a better understanding of the work being requested. They might identify dependencies on 
 other user stories or request clarification on acceptance criteria. The discussion in the refinement meetings should prepare the team to estimate the 
 amount of work required to complete the user stories. During backlog refinement, you do not have to discuss every item in your backlog. You should, 
