@@ -8,7 +8,7 @@ nav_order: 5
 
 # Impact of Team Dynamics
 
-Changes to requirements are an expected part of the development cycle. Successful Agile scrum teams adapt to these changes. They must also be willing 
+Changes to requirements are an expected part of the development cycle. Successful Scrum teams adapt to these changes. They must also be willing 
 to make changes to their own team processes. Changes are often needed as the team itself changes.
 
 Agile teams are reliant on the team’s ability to work with each other and with product owners. As individuals come into and leave the team, team dynamics 
