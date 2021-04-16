@@ -8,7 +8,7 @@ nav_order: 15
 
 # Understanding Scrum Terminology
 
-Before you focus on how to build and optimize Agile Scrum teams, it is important to understand some basic terminology. 
+Before you focus on how to build and optimize Scrum teams, it is important to understand some basic terminology. 
 Although other Agile frameworks use many of the same components, such as sprints and user stories, this section focuses on the use of these components 
 in a Scrum environment.
 
