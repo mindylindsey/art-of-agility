@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Velocity
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 6
 ---
 
