@@ -2,7 +2,7 @@
 layout: default
 title: Lead Time and Cycle Time
 parent: Completion Metrics
-grand_parent: Measuring Agile Scrum Team Performance
+grand_parent: Measuring Scrum Team Performance
 nav_order: 5
 ---
 
