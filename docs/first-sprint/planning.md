@@ -3,7 +3,7 @@ title: Planning Your First Sprint
 layout: default
 has_children: true
 has_toc: false
-nav_order: 5
+nav_order: 25
 ---
 
 # Planning Your First Sprint
