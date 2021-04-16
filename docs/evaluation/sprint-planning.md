@@ -2,7 +2,7 @@
 layout: default
 title: Sprint Planning
 parent: Root Cause Analysis
-grand_parent: Evaluation and Improvement
+grand_parent: Continuous Improvement
 nav_order: 1
 ---
 
