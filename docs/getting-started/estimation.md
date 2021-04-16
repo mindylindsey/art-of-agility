@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Story Estimation
-parent: Backlog Refinement
+parent: Refining Your Backlog
 grand_parent: Getting Started
 nav_order: 1
 ---
