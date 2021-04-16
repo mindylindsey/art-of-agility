@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Root Cause Analysis
+title: Evaluating Scrum Processes
 parent: Continuous Improvement
 nav_order: 4
 has_children: true
 has_toc: false
 ---
 
-# Root Cause Analysis
+# Evaluating Scrum Processes
 
 Improvements can be made at any stage of the Agile sprint from sprint planning to retrospective. With short development cycles of 2-3 weeks, 
 Scrum teams have more frequent opportunities to evaluate how the development process is working than they would in a waterfall development 
