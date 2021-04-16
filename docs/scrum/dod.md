@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Definition of Done
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 3
 ---
 
