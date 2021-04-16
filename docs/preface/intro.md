@@ -23,7 +23,14 @@ Agile is an incremental approach that focuses on constant evaluation of project 
 
 To deliver quickly, teams must focus on the minimum amount of functionality that they must provide to satisfy customers. Focusing on a “minimally viable product” helps teams to limit the potential for scope creep that causes delays in product distribution. In addition, by getting products in the hands of their customers quickly, teams can get feedback that informs future product development. 
 
-## About this Site
+## What is in This Book?
 
-This site is designed to help anyone from individuals just starting with Agile to established scrum teams that are struggling to find the efficiencies that are supposed to be inherent with self-organizing teams working in short development cycles. 
+| Section                           | Description          |
+|-----------------------------------|----------------------|
+| Agile Basics                      |  Agile development is a term that describes a set of development frameworks and practices that are based on the values and principles in a document known as the Agile Manifesto.  This section describes the basics of Agile, why it is benefical, and how it compares to the other Agile frameworks.               |
+| Understanding Scrum Terminology   | Review this section for common terms that are part of the Scrum lexicon. |
+| Getting Started                   | From creating your product backlog to reflection on how well the team is performing, this section gives you the information that you need to understand how to work within the Scrum framework. |
+| Continuous Improvement            | Making adjustments after evaluating what is working and what is not working is as important for the team as it is for the software that they are developing. This section describes some common issues and how to resolve them.      |
+| Measuring Scrum Team Performance  | You can use various methods to measure the performance of an Agile scrum team by looking at the speed in which they work (completion metrics) and by the condition of the products and services they deliver (quality metrics).                          |
+| Frequently Asked Questions        | This section provides answers to some frequently asked questions regarding Agile development and Scrum.               |
 
