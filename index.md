@@ -3,30 +3,12 @@ title: Introduction
 nav_order: 1
 ---
 
-# Art of Agility: A Guide to Optimizing Agile Scrum Teams
+# Art of Agility: <br/>A Guide to Optimizing Agile Scrum Teams
 
-## Why Agile?
+## About this Book
 
-In today’s market, companies depend on gaining any competitive edge they can to be successful. Delivering more features faster is key to this success. Companies must optimize their time-to-market if they want to increase their bottom line.
+This book provides information on how teams can transition to an Agile development model or how those teams already working within an Agile framework can make improvements to their processes. The focus on the first book is on Agile Scrum teams, but more books will be added to cover other popular Agile frameworks.
 
-Technologies are changing rapidly. Development teams must keep up with the changes while delivering reliable software. For more than two decades, developers have recognized that smaller, self-directing teams working in time-boxed development cycles provide the structure needed for teams to work effectively and adapt to change.
+## About the Author
 
-The Agile methodologies emerged in 2001 as the optimal way to succeed in the software industry when a group of developers came together to define a set of values and principles that were common among a variety of frameworks that emphasized rapid development and close collaboration with stakeholders. Scrum is the most widely used framework that adheres to the Agile methodologies. 
-
-Regardless of its popularity, companies have taken elements but not necessarily implemented it fully.
-
-## What Makes an Efficient Agile Scrum Team?
-
-To some extent, your willingness to make changes to your process determines you level of success in optimizing your scrum team. Agile development requires a change in mindset from traditional waterfall methods. 
-
-Agile is an incremental approach that focuses on constant evaluation of project priorities and requirements. The goal is develop quality products quickly that meet customer demands. Rather than spending months planning a large release with dozens or more features that won’t be available to customers for 6 months to a year, Agile teams look at ways to deliver smaller chunks of functionality on a more frequent basis. As customer demands change, your team’s priorities must change to focus on the most valuable improvements to your product. Agile teams need to be able to reprioritize their workload quickly to meet the changing needs. 
-
-To deliver quickly, teams must focus on the minimum amount of functionality that they must provide to satisfy customers. Focusing on a “minimally viable product” helps teams to limit the potential for scope creep that causes delays in product distribution. In addition, by getting products in the hands of their customers quickly, teams can get feedback that informs future product development. 
-
-## About this Site
-
-This site is designed to help anyone from individuals just starting with Agile to established scrum teams that are struggling to find the efficiencies that are supposed to be inherent with self-organizing teams working in short development cycles. 
-
-
-
-
+I had been working as a technical writer for close to 10 years before I started working with my first Agile scrum team. I became a Certified Scrum master so that I could better understand how my technical writing team could work within that model. I have worked with a number of software development and DevOps teams that have adopted Agile processes for more than a decade since that time. There is no "one size fits all" approach to working on an Agile team. However, I find that if your take time to understand the concepts behind Agile and understand that constant evaluations of a teams processes are a critical part of the process, your team will be successful.
