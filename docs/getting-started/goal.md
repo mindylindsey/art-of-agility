@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do You Need a Sprint Goal?
-parent: Sprint Planning
+parent: Planning the Sprint
 grand_parent: Getting Started
 nav_order: 2
 ---
