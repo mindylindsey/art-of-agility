@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daily Standups
+title: Conducting Daily Standups
 parent: Getting Started
 nav_order: 5
 ---
