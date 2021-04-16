@@ -8,7 +8,7 @@ nav_order: 1
 
 # Team Roles
 
-As described in the previous section, an Agile scrum team is a self-organizing, cross-functional group of people working together to achieve a goal. 
+As described in the previous section, a Scrum team is a self-organizing, cross-functional group of people working together to achieve a goal. 
 The team includes members in the following roles:
 
 *	Product Owner: The person who maintains the list of desired product changes, including new features, enhancements, and bug fixes. 
