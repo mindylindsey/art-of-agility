@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluation and Improvement
+title: Continuous Improvement
 nav_order: 30
 has_children: true
 has_toc: false
