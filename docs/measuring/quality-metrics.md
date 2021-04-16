@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quality Metrics
-parent: Measuring Agile Scrum Team Performance
+parent: Measuring Scrum Team Performance
 nav_order: 2
 has_children: true
 has_toc: false
