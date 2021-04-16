@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Measuring Agile Scrum Team Performance
-nav_order: 7
+nav_order: 35
 has_children: true
 has_toc: false
 ---
