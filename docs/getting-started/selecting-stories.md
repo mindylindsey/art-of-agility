@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Picking Sprint Items
-parent: Sprint Planning
+parent: Planning the Sprint
 grand_parent: Getting Started
 nav_order: 3
 ---
