@@ -27,5 +27,5 @@ performing stage. As defined by Tuckman’s model, the phases of group developme
 |---------|----------|--------|-----------|
 | Team focused on developing relationships and understanding roles and responsibilities. | Team experiences conflict. Disagrees on tasks or in the direction of group leadership. | Teams begin to resolve conflicts and work together as a cohesive unit. | Team focus on common goals and perform effectively at a high level with minimal oversight. |
 
-To move quickly through the stages of group development, the team must understand the roles that are part of an Agile scrum team and agree upon rules 
+To move quickly through the stages of group development, the team must understand the roles that are part of a Scrum team and agree upon rules 
 that facilitate interactions among team members. These topics are covered in the next few sections.
