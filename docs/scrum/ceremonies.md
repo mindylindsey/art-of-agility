@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scrum Ceremonies
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 7
 has_children: true
 has_toc: false
