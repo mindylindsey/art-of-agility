@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monitoring Issues vs. Making Changes
-parent: Evaluation and Improvement
+parent: Continuous Improvement
 nav_order: 5
 ---
 
