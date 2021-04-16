@@ -2,7 +2,7 @@
 layout: default
 title: Sprint Burn Down
 parent: Completion Metrics
-grand_parent: Measuring Agile Scrum Team Performance
+grand_parent: Measuring Scrum Team Performance
 nav_order: 2
 ---
 
