@@ -2,7 +2,7 @@
 layout: default
 title: Sprint Planning
 parent: Scrum Ceremonies
-grand_parent: Understanding Scrum
+grand_parent: Understanding Scrum Terminology
 nav_order: 1
 ---
 
