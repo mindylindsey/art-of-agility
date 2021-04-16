@@ -15,7 +15,7 @@ Perhaps the drop in velocity was due to unexpected delays due to issues with the
 Although such a cause might be a reason for your team to ensure that backup testing equipment is available, it would not necessarily be a reason to 
 change the way in which stories are sized or change the length of the team’s sprint to give the more time to finish tasks.
 
-When deciding on whether to implement changes, you should also consider the maturity of your team. Is your team new to Agile scrum and not experienced 
+When deciding on whether to implement changes, you should also consider the maturity of your team. Is your team new to Scrum and not experienced 
 with sizing work for short development cycles? Do you have new team members who take longer to perform tasks, as they are unfamiliar with the technology 
 used by your team? If you answer is yes to either of these questions, you might want to consider ways that you can get everyone comfortable working in 
 an Agile environment and/or with new technology. 
