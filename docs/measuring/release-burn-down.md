@@ -2,7 +2,7 @@
 layout: default
 title: Release Burn Down
 parent: Completion Metrics
-grand_parent: Measuring Agile Scrum Team Performance
+grand_parent: Measuring Agile Team Performance
 nav_order: 3
 ---
 
