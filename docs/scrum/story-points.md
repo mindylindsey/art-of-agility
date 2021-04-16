@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Story Points
-parent: Understanding Scrum
+parent: Understanding Scrum Terminology
 nav_order: 5
 ---
 
