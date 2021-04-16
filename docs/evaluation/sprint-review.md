@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint Review
-parent: Root Cause Analysis
+parent: Evaluating Scrum Processes
 grand_parent: Continuous Improvement
 nav_order: 4
 ---
