@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why Focus on Improvements?
-parent: Evaluation and Improvement
+parent: Continuous Improvement
 nav_order: 1
 has_toc: false
 ---
