@@ -7,6 +7,8 @@ I had been working as a technical writer for close to 10 years before I started 
 
 I wrote this book to provide information to teams on how they can transition to a Scrum development strategy or how to make improvements to their processes once they have worked within the Scrum framework. With the information in this book, you can help realize the efficiencies that are supposed to be inherent with self-organizing teams working in short development cycles. 
 
+<https://mindylindsey.github.io/art-of-agility/>
+
 ## About the Author
 Mindy Lindsey is a technical writing professional with over 25 years of experience in a variety of industries. She became an Agile Scrum Master in 2008 and has been working with Agile development teams since that time to ensure that the technical writing staff are fully embedded within the teams that they support. She focuses on business processes and received her ITIL Foundation and ITIL Service Strategy certifications in 2019. Mindy advocates for quality documentation, whether for internal or external users.
 
