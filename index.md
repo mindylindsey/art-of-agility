@@ -16,7 +16,7 @@ I wrote this book to provide information to teams on how they can transition to 
 Mindy Lindsey is a technical writing professional with over 25 years of experience in a variety of industries. She became an Agile Scrum Master in 2008 and has been working with Agile development teams since that time to ensure that the technical writing staff are fully embedded within the teams that they support. She focuses on business processes and received her ITIL Foundation and ITIL Service Strategy certifications in 2019. Mindy advocates for quality documentation, whether for internal or external users.
 
 ## Contributing to the Discussion
-This book contains thoughts on how to get started with Agile development and how to analyze how our team is performing in order to make improvements. I will be adding the to content to include help technical writers understand how they can work effectively within the Agile framework.
+This book contains thoughts on how to get started with Agile development and how to analyze how your team is performing in order to make improvements. I will be adding the to content to include help technical writers understand how they can work effectively within the Agile framework.
 
 I am using Discussions as a place to connect with other members of the community. I hope that you:
 
