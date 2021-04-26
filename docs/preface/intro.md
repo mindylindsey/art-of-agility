@@ -17,7 +17,7 @@ Regardless of its popularity, companies have taken elements but not necessarily 
 
 ## What Makes an Efficient Scrum Team?
 
-To some extent, your willingness to make changes to your process determines you level of success in optimizing your scrum team. Agile development requires a change in mindset from traditional waterfall methods. 
+To some extent, your willingness to make changes to your process determines your level of success in optimizing your scrum team. Agile development requires a change in mindset from traditional waterfall methods. 
 
 Agile is an incremental approach that focuses on constant evaluation of project priorities and requirements. The goal is develop quality products quickly that meet customer demands. Rather than spending months planning a large release with dozens or more features that won’t be available to customers for 6 months to a year, Agile teams look at ways to deliver smaller chunks of functionality on a more frequent basis. As customer demands change, your team’s priorities must change to focus on the most valuable improvements to your product. Agile teams need to be able to reprioritize their workload quickly to meet the changing needs. 
 
